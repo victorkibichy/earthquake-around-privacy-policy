@@ -12,6 +12,6 @@ The app only uses the device’s location **locally** to show nearby earthquake 
 
 This app does **not** use cookies, analytics, or third-party tracking tools.
 
-If you have questions, email us at [your email here].
+If you have questions, email us at victorkibichy@gmail.com
 
 ---
